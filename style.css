@@ -1,0 +1,68 @@
+body{
+  
+    border-radius:50px;
+    border: solid rgb(2, 255, 179) 15px;
+}
+
+.lulusize
+{
+ font-size: 50px;
+ color:white;
+ text-decoration:underline ;
+}
+.namehead{
+    color:white;
+    margin: 50px;
+    
+}
+
+.img
+{
+    border-radius:40px;
+    width:300px;
+    margin-left:10%;
+    border-radius: 10px;
+    border: dashed rgb(15, 15, 15) 15px;
+
+    border-color: blue;
+  
+    
+}
+.myDiv
+{
+    background-color: rgb(245, 247, 252);
+    width:400px;
+    height:700px;
+    border-radius: 35px;
+    margin-left:40%;
+    border:solid rgb(34, 10, 255) 5px;
+    margin-top: 50PX;
+    box-shadow:0px 5px 0px 5px;
+
+}
+.myName
+{
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: underline;
+}
+.info
+{
+    color:rgb(247, 6, 6);
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10%;
+    line-height: 38px;
+    font-size:20px;
+    margin-top: 15px;
+}
+.social
+{
+   color:#fff; 
+   margin-top:30px;
+}
+
+.fa
+{
+    padding-left:50px;
+    
+}
