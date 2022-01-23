@@ -1,0 +1,52 @@
+.first
+{
+    width: 100%;
+    height: 50%;
+    background-color: chartreuse;
+    display:inline-block
+   
+}
+.second
+{
+    width: 100%;
+    height: 50%;
+    background-color: darkblue;
+    display:inline-block
+}
+.image1
+{
+    border-radius: 75px;
+    border: dotted rgb(10, 6, 6);
+    height: 85%;
+    float: right;
+
+}
+.padding
+{
+  margin-right: 5%;
+}
+.name
+{
+    margin-left: 5%;
+    color: rgb(255, 105, 105);
+    font-size: 150%;
+}
+.image2
+{
+    border-radius: 65px;
+    border: double rgb(235, 8, 8);
+    height: 85%;
+    float: left;
+}
+.padding2
+{
+    margin-left: 5%;
+}
+.info
+{
+ color:rgb(245, 8, 8);
+margin-right: 15%;
+float:right;
+margin-top: 10%;
+font-size: 150%;
+}

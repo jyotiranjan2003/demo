@@ -1,0 +1,17 @@
+.background
+{
+    width: 98%;
+    height: 98%;
+    background-color: chartreuse;
+    border-radius: 5% ;
+    border: 5px solid black;
+    
+}
+.design
+{
+   margin-left: 200px;
+   margin-top: 10%;
+   font-size: 30px;
+
+}
+ 

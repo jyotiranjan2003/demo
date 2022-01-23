@@ -1,7 +1,8 @@
 body{
   
-    border-radius:50px;
-    border: solid rgb(2, 255, 179) 15px;
+    border-radius:0px;
+    /* border: solid rgb(255, 255, 255) 15px; */
+   
 }
 
 .lulusize
@@ -18,26 +19,26 @@ body{
 
 .img
 {
-    border-radius:40px;
     width:300px;
+    margin-top: 20px;
     margin-left:10%;
-    border-radius: 10px;
-    border: dashed rgb(15, 15, 15) 15px;
-
-    border-color: blue;
-  
+    border-radius: 50%;
+    border:groove rgb(15, 15, 15) 5px;
     
 }
 .myDiv
 {
-    background-color: rgb(245, 247, 252);
+   
     width:400px;
     height:700px;
     border-radius: 35px;
     margin-left:40%;
     border:solid rgb(34, 10, 255) 5px;
-    margin-top: 50PX;
+    margin-top: 60px;
     box-shadow:0px 5px 0px 5px;
+    position:absolute;
+    margin-top: -350px;
+    background-color:#fff ;
 
 }
 .myName
@@ -58,11 +59,25 @@ body{
 .social
 {
    color:#fff; 
-   margin-top:30px;
+   margin-top:10px;
 }
 
 .fa
 {
+    margin-top: 10px;
     padding-left:50px;
     
+}
+
+
+.sec1
+{
+    background-color: rgb(255, 230, 0);
+    height: 50%;
+}
+
+.sec2
+{
+    background-color: rgb(62, 9, 255);
+    height: 50%;
 }

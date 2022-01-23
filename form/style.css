@@ -1,0 +1,65 @@
+.background
+{
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 100%;
+   border:solid white;
+   border-width: 10%;
+   padding-top: 8%;
+   padding-left:35%;
+    
+
+     
+}
+.card{
+   border:solid red;
+   height: 70%;
+   width:25%;
+   text-align:center;
+   position: fixed;
+   border-radius:15px;
+   background-image: url(https://cdn.pixabay.com/photo/2018/04/28/16/40/network-3357642_960_720.jpg);
+}
+.design
+{
+    color:white;
+    font-size: 25px;
+    padding-left: 10%;
+    border-spacing: 20px;
+    font-family: sans-serif;
+}
+button
+{
+   width:100%; 
+   height:45px;
+   border-radius: 7px;
+   background-color: #2979FF;
+   border:none;
+   color:#fff;
+}
+input{
+    width:100%;
+    height:45px;
+    border-radius: 7px;
+   
+}
+
+.myForm
+{
+ margin-left:-50px;  
+ padding:30px;
+}
+h2{
+    color:rgb(255, 246, 246);
+}
+.social
+{
+    color:rgb(255, 255, 255);
+}
+.social i{
+    padding:15px 15px;
+    font-size:40px;
+}
+a{
+    color:#fff;
+}
